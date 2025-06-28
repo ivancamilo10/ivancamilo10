@@ -1,18 +1,20 @@
 # 💫 About Me:
 🎓 I'm currently studying **ADSO** at **SENA**  
 🎓 Also studying **Systems Engineering** at **Universidad Americana**  
+🧑‍🔧 I'm a **Certified Technician in Systems**  
 🧠 I'm learning **Web Development**, **Java**, **Flutter**, and **Ruby on Rails**  
+💂‍♂️ I have a **B2 English level**  
 💪 I'm a proud **gymrat** and discipline lover  
 🚀 I'm working on personal and academic projects that reflect my growth  
 🎯 I'm a person who sets goals and works hard to achieve them  
 
 ## 👨‍💻 Projects:
 - 🏋️‍♂️ **FitPower**: Gym management software  
-  `Angular + PHP + MySQL` | Includes admin dashboard, user plans, payment tracking  
-- 🌸 **Deco Perfumes**: Inventory and sales management system  
-  `Java + JSP + MySQL` | Desktop-style web app for managing perfume catalog, sales, and clients  
-- 🛍️ **Full Vapeo** (personal project): E-commerce site for vape products  
-  `Angular` frontend with modern neon design and planned backend integration  
+  `PHP + MySQL` | Allows tracking users, plans, monthly expiration and admin control panel  
+- 🌸 **Perfums Deluxe Milo**: Perfume inventory and sales management system  
+  `Java + JSP + MySQL` | Desktop-style web app to manage product catalog, sales, clients and inventory  
+- 🛍️ **Full Vapeo** *(personal project)*: E-commerce site for vape products  
+  `Angular` frontend with a modern neon design and WhatsApp contact integration  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivan_mejia1702)  
