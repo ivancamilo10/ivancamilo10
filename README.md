@@ -2,7 +2,7 @@
 🎓 I'm currently studying **ADSO** at **SENA**  
 🎓 Also studying **Systems Engineering** at **Universidad Americana**  
 🧑‍🔧 I'm a **Certified Technician in Systems**  
-🧠 I'm learning **Web Development**, **Java**, **Flutter**, and **Ruby on Rails**  
+🧠 I'm learning **Web Development**, **Java**, **Flutter**, **Ruby on Rails**, **Astro** and **Node.js**  
 💂‍♂️ I have a **B2 English level**  
 💪 I'm a proud **gymrat** and discipline lover  
 🚀 I'm working on personal and academic projects that reflect my growth  
@@ -35,6 +35,8 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)  
 ![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
