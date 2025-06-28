@@ -12,7 +12,7 @@
 - 🏋️‍♂️ **FitPower**: Gym management software  
   `PHP + MySQL` | Allows tracking users, plans, monthly expiration and admin control panel  
 - 🌸 **Perfums Deluxe Milo**: Perfume inventory and sales management system  
-  `Java + JSP + MySQL` | Desktop-style web app to manage product catalog, sales, clients and inventory  
+  `PHP + MySQL` | Desktop-style web app to manage product catalog, sales, clients and inventory  
 - 🛍️ **Full Vapeo** *(personal project)*: E-commerce site for vape products  
   `Angular` frontend with a modern neon design and WhatsApp contact integration  
 
