@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+https://www.linkedin.com/in/ivan-camilo-mejia-triana-15789b290/
 
 
 
