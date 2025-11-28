@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Encabezado principal -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ivan+Camilo+Mejia+Triana;Full+Stack+Developer+in+Progress;Systems+Engineering+%26+ADSO+Student;Code+%7C+Gym+%7C+Discipline+%7C+Growth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ivan+Camilo+Mejia+Triana;Full+Stack+Developer+in+Progress;Systems+Engineering+%26+ADSO+Student;Code+%7C+Gym+%7C+Discipline+%7C+Growth+%7C+QA DEV" alt="Typing SVG" />
 
 ---
 
@@ -18,9 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-camilo-mejia-triana-15789b290/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ivan__mejia1702-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivan_mejia1702)
 [![TikTok](https://img.shields.io/badge/TikTok-@nitghwing02-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nitghwing02)
-
-<!-- Contador de visitas -->
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
