@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Encabezado principal -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ivan+Camilo+Mejia+Triana;Full+Stack+Developer+in+Progress;Systems+Engineering+%26+ADSO+Student;Code+%7C+Gym+%7C+Discipline+%7C+Growth+%7C+QA DEV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ADD8E6&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ivan+Camilo+Mejia+Triana;Full+Stack+Developer+in+Progress;Systems+Engineering+%26+ADSO+Student;Code+%7C+Gym+%7C+Discipline+%7C+Growth" alt="Typing SVG" />
 
 ---
 
