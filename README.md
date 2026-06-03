@@ -34,7 +34,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 🤖 AI & Automation (Core para MVP Builder)
+### 🤖 AI & Automation 
 
 ![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
