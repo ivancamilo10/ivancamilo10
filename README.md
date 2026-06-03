@@ -13,6 +13,7 @@
 💂‍♂️ English Level: B2  
 💪 Gym enthusiast & discipline lover  
 🚀 Always building, always learning  
+🤖 **AI MVP Builder | Automation | Full-Stack**
 
 <!-- Socials -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-camilo-mejia-triana-15789b290/)
@@ -24,9 +25,89 @@
 ---
 
 ## 💫 About Me
-- 🔥 Enfocado en crecer como desarrollador full stack.  
-- 🧠 Apasionado por aprender nuevas tecnologías y buenas prácticas.  
-- 🤝 Abierto a colaborar en proyectos interesantes y retadores.  
+- 🔥 Enfocado en crecer como desarrollador full stack y **ingeniero de IA**.
+- 🧠 Apasionado por **IA, automatización, APIs y buenas prácticas**.
+- 🤝 Abierto a colaborar en proyectos interesantes y retadores.
+- 🚀 **Construyo MVPs rápidos con IA, n8n y stacks modernos**.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🤖 AI & Automation (Core para MVP Builder)
+
+![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![n8n](https://img.shields.io/badge/n8n-%23FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude-Anthropic](https://img.shields.io/badge/Claude-Anthropic-FF6B00?style=for-the-badge&logo=chatbot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt-Engineering](https://img.shields.io/badge/Prompt-Engineering-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI-9B59B6?style=for-the-badge&logo=cloud&logoColor=white)
+
+> **Explicación técnica:**
+> - **Python**: Automatización, scripts, IA, procesamiento de datos, APIs.
+> - **JavaScript**: Frontend, lógica en runtime, integración con APIs.
+> - **n8n**: Orquestación de workflows, triggers,.webhooks, nodos HTTP, automatización low-code.
+> - **Claude / ChatGPT**: Integración de LLMs vía API para generación, clasificación, extracción estructurada.
+> - **Prompt Engineering**: Diseño de instrucciones para salidas consistentes, estructuradas y confiables.
+> - **Antigravity**: Herramienta de IA/automatización (contexto específico de proyecto).
+
+### 🌐 Backend & APIs
+
+![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST-API](https://img.shields.io/badge/REST-API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgres&logoColor=white)
+
+> **Explicación técnica:**
+> - **Next.js**: SSR, SSG, routing, APIs en React para MVPs rápidos.
+> - **GraphQL**: Consultas flexibles, evita overfetching, ideal para frontend complejo.
+> - **REST API / JSON**: Intercambio de datos entre servicios, validación, transformación.
+> - **SQL**: Bases relacionales, joins, agregaciones, integridad de datos.
+
+### 🗃️ Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+> **Explicación técnica:**
+> - **MongoDB**: NoSQL, documentos JSON-like, datos flexibles, ideal para prototipos.
+> - **MySQL**: Relacional, consultas estructuradas, reporting, trazabilidad.
+
+### 🧩 Programming & Markup
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🚀 Frameworks & Tools
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%23ff5d01?style=for-the-badge&logo=astro&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧪 Testing & QA
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🎨 Design & Media
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
 
@@ -46,7 +127,7 @@ Sistema completo para la administración de gimnasios:
 - Control de planes y fechas de vencimiento  
 - Panel de administración para el dueño del gimnasio  
 
-**Tech:** `PHP` `MySQL` `Bootstrap` `JavaScript`
+**Tech:** `PHP` `MySQL` `Bootstrap` `JavaScript` `SQL`
 
 </td>
 <td width="50%">
@@ -59,7 +140,7 @@ Aplicación web para gestión de:
 - Ventas y clientes  
 - Control de stock y movimientos  
 
-**Tech:** `PHP` `MySQL` `CSS3` `JavaScript`
+**Tech:** `PHP` `MySQL` `CSS3` `JavaScript` `JSON`
 
 </td>
 </tr>
@@ -80,15 +161,16 @@ Tienda online con diseño moderno tipo neón:
 </td>
 <td width="50%">
 
-### 🚀 Personal & Academic Projects  
+### 🤖 AI & Automation Projects
 
-Proyectos que reflejan mi crecimiento:
-- Sistemas de gestión a medida  
-- Aplicaciones web full stack  
-- Pruebas de automatización y QA  
-- Experimentos con nuevas tecnologías  
+Proyectos con IA y automatización:
+- Workflows con **n8n** y webhooks  
+- Integración con **Claude / ChatGPT**  
+- **Prompt engineering** para salidas estructuradas  
+- **APIs** y **JSON** como formato de intercambio  
+- **MongoDB** / **SQL** para persistencia  
 
-**Tech:** `PHP` `Python` `Java` `Node.js` `Rails` `Flutter`  
+**Tech:** `Python` `JavaScript` `n8n` `GraphQL` `MongoDB` `Next.js`
 
 </td>
 </tr>
@@ -98,53 +180,9 @@ Proyectos que reflejan mi crecimiento:
 
 ---
 
-## 💻 Tech Stack
-
-### 🧩 Programming & Markup
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🚀 Frameworks & Tools
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%23ff5d01?style=for-the-badge&logo=astro&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-### 🧪 Testing & QA
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🗃️ Database
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Design & Media
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Reemplaza TU_USUARIO_GITHUB con tu usuario real -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF)
 
@@ -168,17 +206,19 @@ Proyectos que reflejan mi crecimiento:
 
 ## 📚 Currently Learning
 
-🔥 Ruby on Rails for web apps
+🔥 **AI MVP Building** (Claude, ChatGPT, Prompt Engineering)
 
-🚀 Node.js & REST APIs
+🚀 **n8n Automation** (Workflows, Webhooks, Agents)
 
-📱 Flutter for mobile apps
+⚡ **Next.js** (SSR, SSG, APIs)
 
-⚡ Astro for modern websites
+📱 **GraphQL** (Consultas flexibles)
 
-🧪 Test automation with Selenium & JMeter
+🗃️ **MongoDB** (NoSQL, documentos JSON)
 
-🎨 Better UI/UX for web projects
+🧪 **Test automation** con Selenium & JMeter
+
+🎨 Better UI/UX para proyectos web
 
 ---
 
@@ -221,6 +261,8 @@ Proyectos que reflejan mi crecimiento:
 <div align="center">
 
 ### 💻 “Code. Lift. Sleep. Repeat.”
+
+**AI MVP Builder | Automation | Full-Stack**
 
 Si te gusta mi trabajo, no olvides dejar una ⭐ en mis repositorios.
 
