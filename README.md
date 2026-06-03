@@ -13,7 +13,7 @@
 💂‍♂️ English Level: B2  
 💪 Gym enthusiast & discipline lover  
 🚀 Always building, always learning  
-🤖 **AI MVP Builder | Automation | Full-Stack**
+🤖 **AI | QA | Automation | Full-Stack**
 
 <!-- Socials -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-camilo-mejia-triana-15789b290/)
@@ -25,7 +25,7 @@
 ---
 
 ## 💫 About Me
-- 🔥 Enfocado en crecer como desarrollador full stack y **ingeniero de IA**.
+- 🔥 Enfocado en crecer como desarrollador full stack y **ingeniero QA - IA**.
 - 🧠 Apasionado por **IA, automatización, APIs y buenas prácticas**.
 - 🤝 Abierto a colaborar en proyectos interesantes y retadores.
 - 🚀 **Construyo MVPs rápidos con IA, n8n y stacks modernos**.
