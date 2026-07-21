@@ -120,12 +120,12 @@ open_to:
 ## 🚀 Featured Projects
 
 <!-- ROW 1 -->
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top" align="left">
       <h3>🏋️ FitPower</h3>
       <strong>Gym Management System</strong><br/><br/>
-      Plataforma de administración completa para gimnasios con gestión de membresías, control de planes y vencimientos, y panel administrativo para operadores.
+      Full-featured gym administration platform with membership management, plan tracking, expiration control, and an operator-facing admin dashboard.
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -135,7 +135,7 @@ open_to:
     <td width="33%" valign="top" align="left">
       <h3>🛍️ Full Vapeo</h3>
       <strong>E-commerce Platform</strong><br/><br/>
-      Tienda online con catálogo de productos, integración nativa con WhatsApp para pedidos y diseño UX orientado a conversión.
+      Online store with a full product catalog, native WhatsApp order integration, and a conversion-optimized UX design built for real business impact.
       <br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -144,8 +144,8 @@ open_to:
     </td>
     <td width="33%" valign="top" align="left">
       <h3>🌸 Perfums Deluxe Milo</h3>
-      <strong>Inventory & Sales</strong><br/><br/>
-      Aplicación web para control de inventario, ventas, gestión de clientes y movimientos de stock en tiempo real.
+      <strong>Inventory & Sales System</strong><br/><br/>
+      Web application for real-time inventory control, sales tracking, customer management, and stock movement monitoring for a perfume retail business.
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -156,12 +156,12 @@ open_to:
 </table>
 
 <!-- ROW 2 -->
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top" align="left">
       <h3>🚴 LLego</h3>
       <strong>Delivery App</strong><br/><br/>
-      Aplicación de delivery con seguimiento en tiempo real, gestión de pedidos, panel de repartidores y experiencia de usuario optimizada para móvil.
+      Delivery application with real-time order tracking, courier management panel, and a mobile-first user experience designed for speed and reliability.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -170,7 +170,7 @@ open_to:
     <td width="33%" valign="top" align="left">
       <h3>🌊 Red Emprende Caribe</h3>
       <strong>Entrepreneurship Network</strong><br/><br/>
-      Plataforma web para conectar emprendedores de la región Caribe colombiana, con gestión de perfiles, proyectos y comunidad.
+      Web platform connecting entrepreneurs across the Colombian Caribbean region, featuring profile management, project showcasing, and community engagement tools.
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -179,7 +179,7 @@ open_to:
     <td width="33%" valign="top" align="left">
       <h3>🐾 PetRescue</h3>
       <strong>Pet Rescue Mobile App</strong><br/><br/>
-      Aplicación móvil multiplataforma para rescate y adopción de mascotas, con geolocalización, reportes de animales perdidos y gestión de refugios.
+      Cross-platform mobile app for pet rescue and adoption, featuring geolocation, lost animal reports, shelter management, and community-driven rescue coordination.
       <br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -189,12 +189,12 @@ open_to:
 </table>
 
 <!-- ROW 3 -->
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>🎙️ VoiceChat AI</h3>
-      <strong>Voice Chat with n8n</strong><br/><br/>
-      Chat de voz inteligente orquestado con n8n, integración de modelos de lenguaje para respuestas en tiempo real, manejo de webhooks y procesamiento de audio.
+      <strong>Intelligent Voice Chat — n8n</strong><br/><br/>
+      AI-powered voice chat orchestrated with n8n, integrating language models for real-time responses, webhook handling, and end-to-end audio processing pipelines.
       <br/><br/>
       <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-74AA9C?style=flat-square&logo=openai&logoColor=white" />
@@ -203,7 +203,7 @@ open_to:
     <td width="50%" valign="top" align="left">
       <h3>🎓 EduPlatform</h3>
       <strong>Educational Platform</strong><br/><br/>
-      Plataforma educativa con rendimiento de carga ultrarrápido gracias a Astro, gestión de cursos, usuarios y contenido estructurado con PostgreSQL.
+      High-performance educational platform built with Astro for ultra-fast load times, featuring structured course management, user authentication, and PostgreSQL-backed content delivery.
       <br/><br/>
       <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -211,10 +211,10 @@ open_to:
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="left">
+    <td colspan="2" valign="top" align="left">
       <h3>🤖 AI Automation Suite</h3>
       <strong>Intelligent Workflow Automation</strong><br/><br/>
-      Workflows inteligentes con n8n, integración de LLMs via API (Claude & GPT), prompt engineering para salidas estructuradas y persistencia con MongoDB y SQL.
+      End-to-end automation platform with n8n orchestration, LLM integration via API (Claude & GPT), structured-output prompt engineering, and dual persistence with MongoDB and SQL databases.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
